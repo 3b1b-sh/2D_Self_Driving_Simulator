@@ -2,6 +2,8 @@
 
 ShanghaiTech CS181 2024 Spring final project: 2D Self-Driving Simulator
 
+author: Gubin Hu, Jierui Xu, Haojian Wang
+
 **If you think the project is inspirational or interesting, please give it a star.**
 
 ## Quick Start
